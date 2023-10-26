@@ -5,7 +5,7 @@
 
 This repository contains code and resources related to data science, data manipulation, and data visualization using Python libraries such as Pandas and Matplotlib. It's intended to help you learn and practice these essential skills for data analysis and visualization.
 
-<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fioe.engin.umich.edu%2Fwp-content%2Fuploads%2Fsites%2F7%2F2021%2F06%2FRESIZED_IOE-Masters_-Data-Analytics-and-Applied-Statistics.jpg&tbnid=ayrCuE2PD9fqyM&vet=12ahUKEwiF0-qbtpOCAxXZfqQEHRnaBzkQMyhiegUIARDHAg..i&imgrefurl=https%3A%2F%2Fioe.engin.umich.edu%2Fresearch%2Fmethodologies%2Fdata-analytics%2F&docid=UXwm8yehhtTX-M&w=861&h=432&q=data%20analysis&ved=2ahUKEwiF0-qbtpOCAxXZfqQEHRnaBzkQMyhiegUIARDHAg">
+<img src="https://images.app.goo.gl/qSQrbMCqWNRMpaCb9">
 
 ## Project Structure
 
