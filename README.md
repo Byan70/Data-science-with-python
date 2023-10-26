@@ -5,7 +5,7 @@
 
 This repository contains code and resources related to data science, data manipulation, and data visualization using Python libraries such as Pandas and Matplotlib. It's intended to help you learn and practice these essential skills for data analysis and visualization.
 
-<img src="https://images.app.goo.gl/qSQrbMCqWNRMpaCb9">
+<img src="https://assets-global.website-files.com/60e3caa50ec2a701bbf83598/614034620b06ed6fa750116c_60c04736ae61af795b90b002_5dddf704c64386c08d84d784_4.jpeg">
 
 ## Project Structure
 
